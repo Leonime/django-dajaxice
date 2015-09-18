@@ -1,6 +1,10 @@
 Changelog
 =========
 
+0.8
+^^^^^
+* Removed ``django-dajaxice`` deprecation warnings on ``django 1.8``
+
 0.7
 ^^^^^
 * Make ``django-dajaxice`` work with ``django 1.7``
